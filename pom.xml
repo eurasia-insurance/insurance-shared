@@ -9,7 +9,7 @@
 
 	<groupId>tech.lapsa.insurance</groupId>
 	<artifactId>insurance-shared</artifactId>
-	<version>1.0</version>
+	<version>CURRENT-SNAPSHOT</version>
 
 	<name>Insurance Lib : Shared</name>
 
